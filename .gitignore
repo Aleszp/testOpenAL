@@ -1,6 +1,8 @@
 *.pdf
-bin/
-lib/
+bin/lin/*
+bin/win/*.*
+lib/*.*
 main-lin
-obj/
+obj/win/*.o
+obj/lin/*.o
 
